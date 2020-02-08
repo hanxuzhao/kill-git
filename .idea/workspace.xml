@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2038ed5b-cd56-4ba5-95bd-d8f1e6345ef2" name="Default" comment="" />
+    <list default="true" id="2038ed5b-cd56-4ba5-95bd-d8f1e6345ef2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/main/java/com/debug/kill/model/entity/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/main/java/com/debug/kill/model/entity/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/test/java/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/test/java/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/test/java/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/test/java/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/test/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/test/java/test.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +31,9 @@
       <find>redisson.version</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -40,7 +49,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1WlIBvBRZdR18vnyf3WETOgF7vn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="Cus&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/CustomRealm.java&#10;Ran&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/utils/RandomUtil.java&#10;applica&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/resources/application.properties&#10;Rand&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/utils/RandomUtil.java&#10;info&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/info.jsp&#10;info.jsp[&#9;null&#9;null&#10;KillContr&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;login&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/login.jsp&#10;usercon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/UserController.java&#10;Kilcon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;Itemcon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/ItemController.java&#10;userco&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/UserController.java&#10;Shirocon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/config/ShiroConfig.java&#10;DefaultSec&#9;PSI&#9;JAVA://org.apache.shiro.mgt.DefaultSecurityManager&#10;login.jsp&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/login.jsp&#10;pom.xml&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/pom.xml&#10;executeSuccess&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/executeSuccess.jsp&#10;info.js&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/info.jsp&#10;KillCon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;Zook&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/config/ZooKeeperConfig.java&#10;Kill&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/IKillService.java&#10;InteProcesMute&#9;PSI&#9;JAVA://org.apache.curator.framework.recipes.locks.InterProcessMutex&#10;RSEt&#9;PSI&#9;JAVA://org.redisson.api.RSet&#10;pom.&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/pom.xml&#10;killRecord&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/killRecord.jsp&#10;ItemKillSu&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/model/src/main/resources/mappers/ItemKillSuccessMapper.xml&#10;Sched&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/SchedulerService.java&#10;Ra&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/RabbitReceiverService.java&#10;Main&#9;RUN_CONFIGURATION&#9;MainApplication&#10;Item&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/model/src/main/resources/mappers/ItemKillSuccessMapper.xml&#10;Rabb&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/RabbitReceiverService.java&#10;Rabbitmqconfig&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/config/RabbitmqConfig.java&#10;KillService&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/impl/KillService.java&#10;KillController&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;rabbit&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/config/RabbitmqConfig.java&#10;KillSuccessma&#9;PSI&#9;JAVA://com.debug.kill.model.mapper.ItemKillSuccessMapper&#10;kill&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;executeFail&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/executeFail.jsp&#10;Sta&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/api/src/main/java/com/debug/kill/api/enums/StatusCode.java&#10;Itecon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/ItemController.java&#10;in&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/info.jsp&#10;info.j&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/info.jsp&#10;Killcon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;ItemKillSucce&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/model/src/main/java/com/debug/kill/model/mapper/ItemKillSuccessMapper.java&#10;lis&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/list.jsp&#10;we&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/welcome.jsp" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -408,11 +421,23 @@
       <workItem from="1561974176760" duration="30033000" />
       <workItem from="1579717626782" duration="1669000" />
       <workItem from="1579783917965" duration="580000" />
+      <workItem from="1581176057448" duration="1886000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
