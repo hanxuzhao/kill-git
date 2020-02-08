@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2038ed5b-cd56-4ba5-95bd-d8f1e6345ef2" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>redisson.version</find>
+    </findStrings>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WlIBvBRZdR18vnyf3WETOgF7vn" />
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Cus&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/CustomRealm.java&#10;Ran&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/utils/RandomUtil.java&#10;applica&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/resources/application.properties&#10;Rand&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/utils/RandomUtil.java&#10;info&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/info.jsp&#10;info.jsp[&#9;null&#9;null&#10;KillContr&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;login&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/login.jsp&#10;usercon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/UserController.java&#10;Kilcon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;Itemcon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/ItemController.java&#10;userco&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/UserController.java&#10;Shirocon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/config/ShiroConfig.java&#10;DefaultSec&#9;PSI&#9;JAVA://org.apache.shiro.mgt.DefaultSecurityManager&#10;login.jsp&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/login.jsp&#10;pom.xml&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/pom.xml&#10;executeSuccess&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/executeSuccess.jsp&#10;info.js&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/info.jsp&#10;KillCon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;Zook&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/config/ZooKeeperConfig.java&#10;Kill&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/IKillService.java&#10;InteProcesMute&#9;PSI&#9;JAVA://org.apache.curator.framework.recipes.locks.InterProcessMutex&#10;RSEt&#9;PSI&#9;JAVA://org.redisson.api.RSet&#10;pom.&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/pom.xml&#10;killRecord&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/killRecord.jsp&#10;ItemKillSu&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/model/src/main/resources/mappers/ItemKillSuccessMapper.xml&#10;Sched&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/SchedulerService.java&#10;Ra&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/RabbitReceiverService.java&#10;Main&#9;RUN_CONFIGURATION&#9;MainApplication&#10;Item&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/model/src/main/resources/mappers/ItemKillSuccessMapper.xml&#10;Rabb&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/RabbitReceiverService.java&#10;Rabbitmqconfig&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/config/RabbitmqConfig.java&#10;KillService&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/service/impl/KillService.java&#10;KillController&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;rabbit&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/config/RabbitmqConfig.java&#10;KillSuccessma&#9;PSI&#9;JAVA://com.debug.kill.model.mapper.ItemKillSuccessMapper&#10;kill&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;executeFail&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/executeFail.jsp&#10;Sta&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/api/src/main/java/com/debug/kill/api/enums/StatusCode.java&#10;Itecon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/ItemController.java&#10;in&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/info.jsp&#10;info.j&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/info.jsp&#10;Killcon&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/java/com/debug/kill/server/controller/KillController.java&#10;ItemKillSucce&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/model/src/main/java/com/debug/kill/model/mapper/ItemKillSuccessMapper.java&#10;lis&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/list.jsp&#10;we&#9;FILE&#9;file://E:/WorkSpaceTeaching/kill/server/src/main/webapp/WEB-INF/views/welcome.jsp" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.debug.kill.server.config" />
+      <recent name="com.debug.kill.server.utils" />
+      <recent name="com.debug.kill.api.response" />
+      <recent name="com.debug.kill.api.enums" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkSpaceTeaching\kill\server\src\main\webapp\WEB-INF\views" />
+      <recent name="E:\WorkSpaceTeaching\kill\server\src\main\webapp\static\plugins" />
+      <recent name="E:\WorkSpaceTeaching\kill\server\src\main\webapp\static\css" />
+      <recent name="E:\WorkSpaceTeaching\kill\model\src\main\resources\mappers" />
+      <recent name="E:\WorkSpaceTeaching\kill\model\src\main\java\com\debug\kill\model\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.tomcat7">
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.debug.kill.server.utils.RandomUtil" />
+      <module name="server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.debug.kill.server.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnowFlake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.debug.kill.server.utils.SnowFlake" />
+      <module name="server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.debug.kill.server.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.debug.kill.server.MainApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.76" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="server:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/kill" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_kill_3" />
+        <option name="HTTP_PORT" value="8092" />
+        <option name="JNDI_PORT" value="1092" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53648" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="server:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.RandomUtil" />
+      <item itemvalue="Application.SnowFlake" />
+      <item itemvalue="Spring Boot.MainApplication" />
+      <item itemvalue="Tomcat Server.tomcat7" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RandomUtil" />
+        <item itemvalue="Application.SnowFlake" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2038ed5b-cd56-4ba5-95bd-d8f1e6345ef2" name="Default" comment="" />
+      <created>1560436740799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560436740799</updated>
+      <workItem from="1560436742404" duration="5500000" />
+      <workItem from="1560519575957" duration="4026000" />
+      <workItem from="1560656120591" duration="16000" />
+      <workItem from="1560660356760" duration="3509000" />
+      <workItem from="1560697102903" duration="1488000" />
+      <workItem from="1560778206756" duration="5391000" />
+      <workItem from="1560949325474" duration="2354000" />
+      <workItem from="1561034378867" duration="6625000" />
+      <workItem from="1561119430651" duration="9989000" />
+      <workItem from="1561547921286" duration="1214000" />
+      <workItem from="1561702500312" duration="7046000" />
+      <workItem from="1561809383381" duration="6525000" />
+      <workItem from="1561974176760" duration="30033000" />
+      <workItem from="1579717626782" duration="1669000" />
+      <workItem from="1579783917965" duration="580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/kill/server/service/RabbitReceiverService.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/kill/server/controller/KillController.java</url>
+          <line>151</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/kill/server/service/CustomRealm.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
